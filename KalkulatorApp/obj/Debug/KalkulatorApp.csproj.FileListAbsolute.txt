@@ -1,0 +1,9 @@
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\bin\Debug\KalkulatorApp.exe.config
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\bin\Debug\KalkulatorApp.exe
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\bin\Debug\KalkulatorApp.pdb
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\obj\Debug\KalkulatorApp.csprojResolveAssemblyReference.cache
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\obj\Debug\KalkulatorApp.Form1.resources
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\obj\Debug\KalkulatorApp.Properties.Resources.resources
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\obj\Debug\KalkulatorApp.csproj.GenerateResource.Cache
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\obj\Debug\KalkulatorApp.exe
+E:\Pemograman Lanjut\C#\KalkulatorApp\KalkulatorApp\obj\Debug\KalkulatorApp.pdb
